@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f48c6e87-a25d-4b5d-be96-709afd0918c6" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://webstrar30.fulton.asu.edu/page4/requiredser.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="508299e9-265d-4eca-9034-af5bb41493ed" SourceId="1" SourceUrl="http://webstrar30.fulton.asu.edu/page4/requiredser.svc?wsdl" />
+    <MetadataFile FileName="requiredser.disco" MetadataType="Disco" ID="d5584f20-e882-48fe-bd49-d9cb47938e76" SourceId="1" SourceUrl="http://webstrar30.fulton.asu.edu/page4/requiredser.svc?disco" />
+    <MetadataFile FileName="requiredser.xsd" MetadataType="Schema" ID="c6a512c2-3d4f-4935-b13d-c2b594349e87" SourceId="1" SourceUrl="http://webstrar30.fulton.asu.edu/page4/requiredser.svc?xsd=xsd2" />
+    <MetadataFile FileName="requiredser1.xsd" MetadataType="Schema" ID="0ef46c1c-5323-49cd-8551-53b44c1fa20f" SourceId="1" SourceUrl="http://webstrar30.fulton.asu.edu/page4/requiredser.svc?xsd=xsd1" />
+    <MetadataFile FileName="requiredser2.xsd" MetadataType="Schema" ID="c93ffb73-505c-4dfd-aabd-bdc596dc6caa" SourceId="1" SourceUrl="http://webstrar30.fulton.asu.edu/page4/requiredser.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
