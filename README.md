@@ -13,7 +13,7 @@ A user can put in his travel destination and also the duration of his stay.As so
 Try these Services:
 http://webstrar30.fulton.asu.edu/page5/ToursitLocatorTryIt
 
-#### Attached is the requirement document ead more [here](./Assignment5_DSOD.pdf)
+#### Attached is the requirement document Read more [here](./Assignment5_DSOD.pdf)
 
 
 
